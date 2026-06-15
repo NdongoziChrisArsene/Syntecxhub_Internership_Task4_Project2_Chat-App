@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222192474859",
+    "project_id": "smart-chat-app-39fe1",
+    "storage_bucket": "smart-chat-app-39fe1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222192474859:android:0e08e5b13811375b257cae",
+        "android_client_info": {
+          "package_name": "com.Syntecxhub.SmartChatApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnQeNUMKLojSEJbrk6GP_2agOHf7VIAYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
